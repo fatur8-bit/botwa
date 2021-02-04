@@ -48,11 +48,11 @@ const vcard = 'BEGIN:VCARD\n' //GANTI NO DAN NAMA DIBAWAH INI JADI PUNYA LU
             + 'END:VCARD' //SCRIPT ORI FROM MAHANKBARBAR
 prefix = '#'
 blocked = []   
-limitawal = '20'
+limitawal = '100'
 cr = '*FADHIL BOT*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6288221608614@s.whatsapp.net","6283102650464@s.whatsapp.net"] //ganti nomor lu
+const ownerNumber = ["62859140514162@s.whatsapp.net"]//ganti nomor lu
 /************************************/
 
        
