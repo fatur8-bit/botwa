@@ -48,7 +48,7 @@ const vcard = 'BEGIN:VCARD\n' //GANTI NO DAN NAMA DIBAWAH INI JADI PUNYA LU
             + 'END:VCARD' //SCRIPT ORI FROM MAHANKBARBAR
 prefix = '#'
 blocked = []   
-limitawal = '100'
+limitawal = '500'
 cr = '*FADHIL BOT*'
 
 /******** OWNER NUMBER**********/
